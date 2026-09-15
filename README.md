@@ -15,9 +15,6 @@ I am currently studying Systems Engineering with a specialization in Software En
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=c4rl0oz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=c4rl0oz&icon=0&color=1)](https://visitcount.itsvg.in)
 
